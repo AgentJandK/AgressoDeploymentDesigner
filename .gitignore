@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AgressoDeploymentDesigner/.vs/AgressoDeploymentDesigner/v15
+/AgressoDeploymentDesigner/obj/Debug
+/AgressoDeploymentDesigner.UT/obj/Debug
+/AgressoDeploymentDesigner/bin/Debug
+/AgressoDeploymentDesigner.UT/bin/Debug
