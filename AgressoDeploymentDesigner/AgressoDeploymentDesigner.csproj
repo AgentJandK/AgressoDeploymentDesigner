@@ -55,11 +55,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Utils\IValueMap.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="Agresso\Predefined\MappingFactory.cs" />
+    <Compile Include="Agresso\Predefined\ValueMapping.cs" />
+    <Compile Include="Agresso\Predefined\MappingTypes.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgressoDeploymentDesigner", "AgressoDeploymentDesigner.csproj", "{8C39720D-0B97-4925-BF73-1D8D6075BD16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgressoDeploymentDesigner", "AgressoDeploymentDesigner\AgressoDeploymentDesigner.csproj", "{8C39720D-0B97-4925-BF73-1D8D6075BD16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgressoDeploymentDesigner.UT", "..\AgressoDeploymentDesigner.UT\AgressoDeploymentDesigner.UT.csproj", "{4FF97E5F-D907-480B-A25B-5B7B6CA0784D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgressoDeploymentDesigner.UT", "AgressoDeploymentDesigner.UT\AgressoDeploymentDesigner.UT.csproj", "{4FF97E5F-D907-480B-A25B-5B7B6CA0784D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
